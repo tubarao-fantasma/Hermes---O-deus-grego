@@ -1,0 +1,132 @@
+/* Páginas */ 
+
+.posicao {
+text-align: center;
+color: rgb(193, 128, 59);
+background-color: #ffc100;
+} 
+
+#homepage {
+background-image: url(imagens/pergaminho.jpg); 
+background-position: center; 
+background-size: cover;
+text-align: center; 
+} 
+
+#quemsou { 
+background-image: url(imagens/pergaminho.jpg); 
+background-position: center; 
+background-size: cover;
+text-align: center; 
+}
+
+#origem {
+background-image: url(imagens/pergaminho.jpg); 
+background-position: center; 
+background-size: cover; 
+} 
+
+#galeria {
+background-image: url(imagens/pergaminho.jpg); 
+background-position: center; 
+background-size: cover; 
+}
+
+#indicacoes { 
+background-image: url(imagens/pergaminho.jpg); 
+background-position: center; 
+background-size: cover;
+} 
+
+/* Páginas - Fim */
+
+
+
+/* Decorações Textos */ 
+
+h2 {
+font-family: 'Helvetica Neue'; 
+color: #5f8474; 
+} 
+
+.textos{
+color: rgb(39, 42, 100); 
+}
+
+.assinatura {
+color: #191716; 
+text-align: right;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.amarelo{
+color: #ffc100; 
+} 
+
+#risco-por-cima {
+text-decoration: line-through wavy; 
+text-decoration-color: #ffc100; 
+} 
+
+/* Decorações Textos - Fim */ 
+
+
+
+/* Proporções das fotos */
+
+#pokemon {
+width: 604pt; 
+height: 300pt;
+} 
+
+.fotos-proporcao1 {
+width: 10%;
+height: 10%;
+}
+
+.fotos-proporcao2 {
+width: 25%; 
+height: 25%;
+}
+
+.fotos-proporcao3 {
+width: 10%;
+height: 10%;
+border-radius:50%;
+}
+
+.fotos-proporcao4 {
+width: 9.5%; 
+height: 9%;
+}
+
+.fotos-proporcao5 {
+width: 20%; 
+height: 20%;
+}
+
+.fotos-proporcao6 {
+width: 10%; 
+height: 10%;
+border-radius:100%;
+}
+
+.fotos-proporcao7 {
+width: 800pt;
+height: 415pt;
+} 
+
+.fotos-proporcao8 {
+width: 400pt;
+height: 207pt;
+} 
+
+.lado-lado {
+display:flex;
+} 
+
+#imagem_indicacoes {
+text-align: right;
+} 
+
+/* Proporções das fotos - Fim */ 
